@@ -1,3 +1,6 @@
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1de207e9-2ba9-46e6-ad7d-a01526f5a1ec" />
+
+
 # XINACHAIN
 
 Multi-agent system for supply chain intelligence between China and Brazil. It monitors cargo, assesses risks, calculates import costs, and generates executive reports automatically.
